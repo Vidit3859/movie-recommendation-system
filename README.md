@@ -71,10 +71,13 @@ https://grouplens.org/datasets/movielens/
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 movie-recommendation-system/
+│
+├── assets/
+│   └── demo.png
 │
 ├── data/
 │   ├── movies.csv
@@ -154,5 +157,15 @@ From this project, I learned:
 - Add hybrid recommendation system
 - Deploy the app online
 - Add sentiment-based filtering
+
+---
+
+## 👨‍💻 Author
+
+**Vidit Kumar**
+
+- 📧 Email: vidit.kumar624@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/viditkumar-in  
+- 💻 GitHub: https://github.com/Vidit3859
 
 ---
