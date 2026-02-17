@@ -8,6 +8,12 @@ This project uses the **MovieLens dataset** and provides a simple **Streamlit we
 
 ---
 
+## 📸 Demo Screenshot
+
+![Movie Recommendation System Demo](assets/demo.png)
+
+---
+
 ## Project Overview
 
 Recommendation systems are widely used in platforms like Netflix, Amazon, and Spotify.  
