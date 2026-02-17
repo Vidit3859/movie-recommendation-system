@@ -1,4 +1,6 @@
-# Movie Recommendation System 🎬
+# 🎬 Movie Recommendation System
+
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20App-red?logo=streamlit)](https://vidit-ml-movie-recommendation-system.streamlit.app)
 
 A machine learning project that recommends movies based on user preferences using **collaborative filtering** and **content-based filtering**.
 
